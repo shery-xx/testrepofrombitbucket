@@ -20,9 +20,9 @@ namespace CodePortingCSharp2Java
         /// 
         /// </summary>
   public string text= "new text here";
-  public int count= 100;   
   public static string Token = string.Empty;   
   private int x = 200;
+  public int count= 100;   
                		
     }
 }
