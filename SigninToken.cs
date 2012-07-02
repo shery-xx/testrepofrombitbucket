@@ -19,6 +19,7 @@ namespace CodePortingCSharp2Java
         /// <summary>
         /// 
         /// </summary>
+        public integer count= 100;
         public static string Token = string.Empty;   
         public string Test2="here";		
     }
