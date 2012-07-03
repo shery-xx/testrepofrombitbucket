@@ -23,6 +23,8 @@ namespace CodePortingCSharp2Java
   public static string Token = string.Empty;   
   private int x = 200;
   public int count= 100;   
+
+ private int newdata = 10000;
                		
     }
 }
