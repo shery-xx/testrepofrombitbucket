@@ -22,6 +22,7 @@ namespace CodePortingCSharp2Java
   public string text= "new text here";
   public static string Token = string.Empty;   
 
+//ok commented code lets see.. what happens on commit now..
                		
     }
 }
