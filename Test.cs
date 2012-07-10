@@ -20,7 +20,9 @@ namespace CodePortingCSharp2Java
         /// 
         /// </summary>
   public static string Token = string.Empty;         
-
+  public int x=0;
 	// new data here...    		
     }
+    
+   
 }
