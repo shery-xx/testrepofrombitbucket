@@ -22,7 +22,6 @@ namespace CodePortingCSharp2Java
   public string text= "new text here";
   public static string Token = string.Empty;   
   private int x = 200;
-  public int count= 100;    // this value initialzed with 100 only..
-               		
+  public int count= 100;                   		
     }
 }
